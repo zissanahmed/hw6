@@ -1,0 +1,105 @@
+.header {
+  height: 100px;
+  background-color: red;
+}
+.wrapper {
+  overflow: hidden;
+}
+.blog {
+  float: left;
+  width: 70%;
+  height: 100px;
+  background-color: green;
+}
+.contact {
+  float: left;
+  width: 30%;
+  height: 100px;
+  background-color: blue;
+}
+.container {
+  overflow: hidden;
+}
+.i1 {
+  float: left;
+  width: 33.33%;
+  height: 130px;
+  background-color: teal;
+}
+.i2 {
+  float: left;
+  width: 33.33%;
+  height: 130px;
+  background-color: dimgray;
+}
+.i3 {
+  float: left;
+  width: 33.33%;
+  height: 130px;
+  background-color: aqua;
+}
+.cloath_item {
+  overflow: hidden;
+}
+.ci1 {
+  float: left;
+  width: 25%;
+  height: 130px;
+  background-color: pink;
+}
+.ci2 {
+  float: left;
+  width: 25%;
+  height: 130px;
+  background-color: cadetblue;
+}
+.ci3 {
+  float: left;
+  width: 25%;
+  height: 130px;
+  background-color: yellowgreen;
+}
+.ci4 {
+  float: left;
+  width: 25%;
+  height: 130px;
+  background-color: orangered;
+}
+.food_item {
+  overflow: hidden;
+}
+.item1 {
+  float: left;
+  width: 20%;
+  height: 130px;
+  background-color: rebeccapurple;
+}
+.item2 {
+  float: left;
+  width: 20%;
+  height: 130px;
+  background-color: gray;
+}
+.item3 {
+  float: left;
+  width: 20%;
+  height: 130px;
+  background-color: maroon;
+}
+.item4 {
+  float: left;
+  width: 20%;
+  height: 130px;
+  background-color: navy;
+}
+.item5 {
+  float: left;
+  width: 20%;
+  height: 130px;
+  background-color: tomato;
+}
+
+.footer {
+  height: 100px;
+  background-color: black;
+}
